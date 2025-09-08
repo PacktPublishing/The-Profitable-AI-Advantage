@@ -1,1 +1,1 @@
-# The-Practicical-AI-Advantage, Published by Packt
+# The-Practical-AI-Advantage, Published by Packt
