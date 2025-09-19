@@ -1,6 +1,6 @@
 <h1 align="center">
 The Profitable AI Advantage, First Edition</h1>
-<p align="center">This is the code repository for <a href ="the-profitable-ai-advantage-first-edition"> The Profitable AI Advantage, First Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/the-ai-advantage-9781836205883"> The Profitable AI Advantage, First Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
