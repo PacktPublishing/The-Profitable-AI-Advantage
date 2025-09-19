@@ -4,8 +4,7 @@ The Profitable AI Advantage, First Edition</h1>
 </p>
 
 <h2 align="center">
-The Business Leader's Guide to Building and Executing AI Roadmaps for Growth
-</h2>
+A business leader’s guide to designing and delivering AI roadmaps for measurable results</h2>
 <p align="center">
 Tobias Zwingmann</p>
 
