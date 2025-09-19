@@ -1,6 +1,6 @@
 <h1 align="center">
-The AI Advantage, First Edition</h1>
-<p align="center">This is the code repository for <a href ="the-ai-advantage-first-edition"> The AI Advantage, First Edition</a>, published by Packt.
+The Profitable AI Advantage, First Edition</h1>
+<p align="center">This is the code repository for <a href ="the-ai-advantage-first-edition"> The Profitable AI Advantage, First Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
