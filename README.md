@@ -15,7 +15,7 @@ Tobias Zwingmann</p>
  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://packt.link/gbp/9781836205890"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="[www.amazon.com](https://www.amazon.com/AI-Advantage-Business-Building-Executing-ebook/dp/B0DM2HBNMY/ref=sr_1_1?sr=8-1)"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
+   <a href="https://www.amazon.com/AI-Advantage-Business-Building-Executing-ebook/dp/B0DM2HBNMY/ref=sr_1_1?sr=8-1"><img width="32px" alt="Amazon" title="Get your copy" src="https://cdn-icons-png.flaticon.com/512/15466/15466027.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <details open>
