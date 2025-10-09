@@ -88,9 +88,9 @@ Beyond his consulting work, Tobias is a passionate educator who regularly delive
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/the-chief-ai-officers-handbook-first-edition/9781836200857">The Chief AI Officer's Handbook, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/the-chief-ai-officers-handbook-first-edition-9781836200857">The Chief AI Officer's Handbook, First Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/building-agentic-ai-systems-first-edition/9781803238753">Building Agentic AI Systems, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/building-agentic-ai-systems-first-edition-9781803238753">Building Agentic AI Systems, First Edition</a></li>
  
 </ul>
 
